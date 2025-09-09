@@ -1,0 +1,9 @@
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\CountdownTimerGUI.exe.config
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\CountdownTimerGUI.exe
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\CountdownTimerGUI.pdb
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\CountdownTimerGUI.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\CountdownTimerGUI.Properties.Resources.resources
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\CountdownTimerGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\CountdownTimerGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\CountdownTimerGUI.exe
+C:\Users\a.razi\source\repos\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\CountdownTimerGUI.pdb
